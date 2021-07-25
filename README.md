@@ -4,7 +4,7 @@
 
 ### Day-1(DrumKit Project)
 Learnt the following things : 
-    - <kbd></kbd> tag for keyboard input.
+    - "<kbd> </kbd>" tag for keyboard input.
     - setTimer() in JS to delay some function.
     - working with audio in html files and playing them.
 
