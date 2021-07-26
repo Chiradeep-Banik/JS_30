@@ -1,0 +1,47 @@
+:root{
+    --color : #dfc532;
+    --border_size : 10px;
+    --blur : 1px;
+}
+
+img{
+    border : var(--color) solid var(--border_size);
+    filter:blur(var(--blur));
+}
+
+*{
+    padding:0px;
+    margin:0px;
+    font-family : monospace;
+    font-size:10px;
+    box-sizing: border-box;
+    color:white;
+}
+body{
+    background-color: rgb(27, 89, 184);
+}
+.container{
+    width:100rem;
+    min-height:500rem;
+    margin:0rem auto;
+    text-align: center;
+}
+#main_header{
+    padding-top: 5rem;
+    padding-bottom: 2.5rem;
+    font-size: 4rem;
+}
+.playthings{
+    display: flex;
+    margin:1rem;
+    margin-bottom: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+.thing{
+    padding:1rem;
+    font-size: 2rem;
+}
+.thing span{
+    font-size: 2rem;
+}
