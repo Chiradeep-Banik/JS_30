@@ -1,0 +1,48 @@
+:root{
+    --pri_color : rgb(255, 230, 6);
+    --sec_color : white;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: var(--pri_color);
+    width: 100%;
+    min-height: 65.7rem;
+}
+form{
+    max-width: 50rem;
+    margin : 0rem auto;
+}
+#state_name{
+    background-color: var(--sec_color);
+    width:45rem;
+    height:10rem;
+    border-radius: 0.5rem;
+    border: rgba(0, 0, 0, 0.15) 0.75rem solid;
+    font-size: 6rem;
+    text-align: center;
+    padding:5rem;
+    margin : 5rem auto 0rem auto;
+    box-shadow: 0px 0px 1rem rgba(0, 0, 0, 0.15);
+}
+ul{
+    list-style: none;
+    font-size: 4rem;
+    text-align: center;
+}
+li{
+    width:35rem;
+    height: 6rem;
+    font-size: 3rem;
+    background-color: var(--sec_color);
+    box-shadow: 0px 0px 1rem rgba(0, 0, 0, 0.15);
+    margin: 0px auto;
+    position: relative;
+    left:-5%;
+}
