@@ -1,0 +1,50 @@
+*{
+    font-size: 10px;
+    font-family : sans-serif;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+#container{
+    max-width: 100rem;
+    min-height:50rem;
+    background-color: black;
+    margin: 4rem auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#main{
+    text-align: center;
+    padding: 4rem;
+}
+#work {
+    font-size: 2.5rem;
+    padding: 0.35rem;
+    color: darkcyan;
+    border: none;
+}
+#main button{
+    font-size: 2.5rem;
+    color: darkcyan;
+    padding: 0.35rem;
+    cursor: pointer;
+}
+#list{
+    margin: 0rem auto;
+    padding-bottom: 1rem;
+}
+#checkbox{
+    font-size: 2.1rem;
+    padding: 0.35rem;
+}
+#list label{
+    font-size: 2.1rem;
+    padding: 0.35rem;
+}
+#list label .checked {
+    text-decoration: line-through;
+    color: black;
+}
