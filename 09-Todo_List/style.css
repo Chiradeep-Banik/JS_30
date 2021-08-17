@@ -44,7 +44,6 @@
     font-size: 2.1rem;
     padding: 0.35rem;
 }
-#list label .checked {
+.list_item label.checked{
     text-decoration: line-through;
-    color: black;
 }
