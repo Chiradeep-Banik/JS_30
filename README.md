@@ -2,11 +2,10 @@
 
 ## I am learning Javascript and web-development from the JS30 original course-["JS30"](https://courses.wesbos.com/account/access/60d9fa788981fd4f94701c38).
 
-### Day-1(DrumKit Project)
-Learnt the following things :
-    <ul>
-        <li>"kbd" tag for keyboard input. </li>
-        <li>setTimer() in JS to delay some function.</li>
-        <li>working with audio in html files and playing them.</li>
-    </ul>
-
+### All the projects : 
+- [Drumkit](https://chiradeep-banik.github.io/JS_30/01-Drumkit)
+- [Clock](https://chiradeep-banik.github.io/JS_30/02-Clock)
+- [CSSVariables](https://chiradeep-banik.github.io/JS_30/03-CSSVariables)
+- [FlexPanel](https://chiradeep-banik.github.io/JS_30/05-FlexPanel)
+- [AjaxSearch](https://chiradeep-banik.github.io/JS_30/06-AjaxSearch)
+- [Todo_List](https://chiradeep-banik.github.io/JS_30/09-Todo_List)
